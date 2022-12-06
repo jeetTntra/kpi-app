@@ -1,0 +1,6 @@
+[submodule "kpi-app-frontend"]
+	path = kpi-app-frontend
+	url = https://github.com/jeetTntra/kpi-app-frontend.git
+[submodule "kpi-app-backend"]
+	path = kpi-app-backend
+	url = https://github.com/jeetTntra/kpi-app-backend.git
